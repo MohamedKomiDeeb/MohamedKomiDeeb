@@ -22,7 +22,7 @@
 
 
 <a href="https://www.linkedin.com/in/mohamedkomieldeeb/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Komi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-<a href="https://wa.me/qr/01061516789" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Komi-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/>
+<a href="https://wa.me/qr/4AFHRB3KU6CAA1" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Komi-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/>
 </a>
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
