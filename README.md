@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter or anything related to Mobile development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my CV at <a href ="">Download PDF</a> or <a href ="">Open Photo</a> .
+- 👨‍💻 Check out my CV at <a href ="hhttps://drive.google.com/file/d/1Yz1O8NtJ-3FERh-lZYhUo2ZnH9ydg8NJ/view?usp=drive_link">Download PDF</a> or <a href ="https://drive.google.com/file/d/1gy5GPwAKaow6f4ru4uKVVFq2Nsw5ZYaH/view?usp=drive_link">Open Photo</a> .
 
 
 ### Connect with Me :
